@@ -1,0 +1,5 @@
+01|Arroz Carreteiro|15,5
+02|X-Salada|8,0
+03|X-Tudo|16,0
+04|Refrigerante|4,0
+05|Pudim|6,0

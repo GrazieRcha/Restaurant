@@ -1,0 +1,7 @@
+
+01|Diogo Soares|27,0
+02|Adriana Augusto|13,0
+03|Luis Ricardo|5,0
+04|Maria Ursula|23,0
+01|Grazi|19,50
+01|Grazi|14,00
